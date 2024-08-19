@@ -51,11 +51,12 @@ Utilizando el **Administrador de complementos (addon manager)**:
 [Federico Coca](https://github.com/fgcoca)
 
 ## Licencia
-
+[GPL-2.0 license](https://github.com/fgcoca/Solidos-Platonicos/tree/main#GPL-2.0-1-ov-file)
 ## Enlaces
 
-* [FreeCAD]()
-* [Printables]()
+* [FreeCAD](https://www.freecad.org/downloads.php?lang=es_ES)
+* [Printables](https://www.printables.com/es/@fgcoca_15371)
+
 
 
 ![Instalación](/img/f3.png)
