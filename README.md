@@ -17,7 +17,11 @@ Los sólidos platónicos son:
 
 Esta lista es exhaustiva, ya que es imposible construir otro sólido diferente de los cinco anteriores que cumpla todas las propiedades exigidas de convexidad y regularidad.
 
+<center>
+  
 ![Los cinco sólidos platónicos](/img/f1.png)
+
+</center>
 
 ## Uso
 
@@ -25,5 +29,23 @@ Esta lista es exhaustiva, ya que es imposible construir otro sólido diferente d
 * Como siempre se hace en FreeCAD, para activar un modelo se selecciona en el árbol de objetos haciendo clic sobre su nombre.
 * En la pestaña Datos podemos establecer sus dimensiones y en la pestaña Vista ajustar otras propiedades.
 
-Los modelos son editables desde el banco de trabajo Part y les son aplicables operaciones booleanas.
+Los modelos son editables desde el banco de trabajo Part y les son aplicables operaciones booleanas. Esto permite obtener sólidos como el siguiente:
+
+<center>
+
+![Suma de dos sólidos](/img/f2.png)
+
+</center>
+
+## Instalación
+Utilizando el **Administrador de complementos (addon manager)**:
+
+* En FreeCAD nos dirigimos al menú **Herramientas** y escogemos **Administrador de complementos**
+* Seleccionamos **Escenarios** y localizamos **Pyramids-and-Polyhedrons**
+
+<center>
+
+![Instalación](/img/f3.png)
+
+</center>
 
