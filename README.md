@@ -45,6 +45,19 @@ Utilizando el **Administrador de complementos (addon manager)**:
 
 <center>
 
+## Fotos
+
+## Autor
+[Federico Coca](https://github.com/fgcoca)
+
+## Licencia
+
+## Enlaces
+
+* [FreeCAD]()
+* [Printables]()
+
+
 ![Instalación](/img/f3.png)
 
 </center>
