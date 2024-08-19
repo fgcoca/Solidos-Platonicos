@@ -49,7 +49,11 @@ Utilizando el **Administrador de complementos (addon manager)**:
 
 </center>
 
+## Archivos
+
+
 ## Fotos
+
 
 ## Autor
 [Federico Coca](https://github.com/fgcoca)
