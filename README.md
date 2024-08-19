@@ -17,7 +17,7 @@ Los sólidos platónicos son:
 
 Esta lista es exhaustiva, ya que es imposible construir otro sólido diferente de los cinco anteriores que cumpla todas las propiedades exigidas de convexidad y regularidad.
 
-![Los cinco sólidos platónicos](../img/f1.png)
+![Los cinco sólidos platónicos](/img/f1.png)
 
 ## Uso
 
