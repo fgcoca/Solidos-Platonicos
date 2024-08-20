@@ -50,7 +50,15 @@ Utilizando el **Administrador de complementos (addon manager)**:
 </center>
 
 ## Archivos
+### Fuente
+* [FreeCAD](/FC/platonicos.FCStd)
 
+### STLs
+* [Tetraedro](/stl/Tetrahedron.stl)
+* [Hexaedro](/stl/Hexahedron.stl)
+* [Octaedro](/stl/Octahedron.stl)
+* [Dodecaedr](/stl/Dodecahedron.stl)
+* [Icosaedro](/stl/Icosahedron.stl)
 
 ## Fotos
 
