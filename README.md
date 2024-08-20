@@ -61,7 +61,13 @@ Utilizando el **Administrador de complementos (addon manager)**:
 * [Icosaedro](/stl/Icosahedron.stl)
 
 ## Fotos
+<center>
 
+![Instalación](/img/f4.png)
+
+![Instalación](/img/f5.png)
+
+</center>
 
 ## Autor
 [Federico Coca](https://github.com/fgcoca)
